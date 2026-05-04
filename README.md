@@ -29,11 +29,11 @@ For local development, this template lets you **paste a token manually** to test
 
 ## What's included
 
-- ✅ Vite 5 + React 19 + TypeScript strict
-- ✅ `@liqaa/js` wired with `LIQAACallButton` example
-- ✅ Manual token input form for testing without a backend
-- ✅ ESLint + Prettier
-- ✅ Ready for SPA hosting (Netlify, Cloudflare Pages, GitHub Pages)
+- Vite 5 + React 19 + TypeScript strict
+- `@liqaa/js` wired with `LIQAACallButton` example
+- Manual token input form for testing without a backend
+- ESLint + Prettier
+- Ready for SPA hosting (Netlify, Cloudflare Pages, GitHub Pages)
 
 ## License
 
